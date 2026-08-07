@@ -21,7 +21,7 @@ Aspiring AI Engineer | Bootcamp Graduate. Building NLP, CV, and MLOps projects. 
   
 - Telco customer churn prediction comparing Logistic Regression and Random Forest. Includes data cleaning, encoding, scaling, accuracy/precision/recall evaluation, confusion matrices, and business interpretation for retention strategies. [Slogan Generator]https://github.com/kasey-softwareDev/churn-prediction-with-classification
   
-- Multiple linear regression model predicting Ames, Iowa house prices. Includes data cleaning, correlation analysis, feature selection, model evaluation (RMSE, R²), residual plots, and extended feature comparison. [Slogan Generator]https://github.com/kasey-softwareDev/Multiple-linear-regression-model
+- Multiple linear regression model predicting Ames, Iowa house prices. Includes data cleaning, correlation analysis, feature selection, model evaluation (RMSE, R²), residual plots, and extended feature comparison. [!Slogan Generator]https://github.com/kasey-softwareDev/Multiple-linear-regression-model
   
 - Exploratory data analysis of automobile data — data cleaning, feature engineering, visualization with matplotlib, and insight generation using pandas. Covers relationships between price, MPG, engine size, and manufacturer model counts. [Slogan Generator]https://github.com/kasey-softwareDev/Exploratory-data-analysis-of-automobile-data/tree/main
   
