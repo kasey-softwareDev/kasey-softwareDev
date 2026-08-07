@@ -13,21 +13,12 @@ Aspiring AI Engineer | Bootcamp Graduate. Building NLP, CV, and MLOps projects. 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # Featured Projects
-- LSTM-based slogan generator and industry classifier using spaCy, Keras, embedding layers, and sequence modeling. Includes text preprocessing, tokenization, padding, model training, and combined generation/classification pipeline. https://github.com/kasey-softwareDev/LSTM-based-slogan-generator-and-industry-classifier-using-spaCy
-  
-- Amazon review sentiment analysis using spaCy (en_core_web_md) and SpacyTextBlob. Includes text preprocessing (lemmatization, stop-word removal), polarity scoring, and threshold-based sentiment classification (Positive/Negative/Neutral). [Slogan Generator]https://github.com/kasey-softwareDev/Amazon-review-sentiment-analysis-using-spaCy-en_core_web_md-and-SpacyTextBlob
-  
-- Unsupervised clustering of US crime data using PCA for dimensionality reduction and K-Means/Agglomerative clustering. Includes standardisation, correlation analysis, silhouette scores, dendrograms, and cluster interpretation. [Slogan Generator]https://github.com/kasey-softwareDev/Unsupervised-clustering-
-  
-- Telco customer churn prediction comparing Logistic Regression and Random Forest. Includes data cleaning, encoding, scaling, accuracy/precision/recall evaluation, confusion matrices, and business interpretation for retention strategies. [Slogan Generator]https://github.com/kasey-softwareDev/churn-prediction-with-classification
-  
-- Multiple linear regression model predicting Ames, Iowa house prices. Includes data cleaning, correlation analysis, feature selection, model evaluation (RMSE, R²), residual plots, and extended feature comparison. [!Slogan Generator]https://github.com/kasey-softwareDev/Multiple-linear-regression-model
-  
-- Exploratory data analysis of automobile data — data cleaning, feature engineering, visualization with matplotlib, and insight generation using pandas. Covers relationships between price, MPG, engine size, and manufacturer model counts. [Slogan Generator]https://github.com/kasey-softwareDev/Exploratory-data-analysis-of-automobile-data/tree/main
-  
-- Task Manager — Multi-user CLI with file persistence, auth, and reporting. [Slogan Generator](https://github.com/kasey-softwareDev/Task-manager)
-  
-- Bookstore inventory using SQLite — relational tables, foreign keys, CRUD, joins, and validation. Shows database design and Python backend skills - https://github.com/kasey-softwareDev/Bookstore-inventory
+LSTM Slogan Generator & Classifier — NLP capstone using spaCy, Keras, LSTM, embedding, and text generation/classification. Repo
+Amazon Sentiment Analysis — spaCy + SpacyTextBlob sentiment classification with preprocessing and polarity scoring. Repo
+US Crime Clustering — PCA, K-Means, Agglomerative clustering with silhouette evaluation and dendrograms. Repo
+Telco Churn Prediction — Logistic Regression vs Random Forest with evaluation and business interpretation. Repo
+House Price Regression — Multiple linear regression on Ames data with feature comparison and residual analysis. Repo
+Auto EDA — Data cleaning, feature engineering, and visualization with pandas/matplotlib. Repo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kasey-softwareDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
