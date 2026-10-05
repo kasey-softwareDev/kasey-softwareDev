@@ -1,6 +1,6 @@
 # Hi there 👋 My Name is Kasey Louw
 
-### 📊 Enterprise Data Analyst & BI Engineer | M365 Expert
+### 📊 AI Engineer | Enterprise Data Analyst & BI Engineer | M365 Expert
 **Top 10% Graduate** (Ranked **3rd out of 26** | **99% Average Grade**) from the **Stellenbosch University / HyperionDev Artificial Intelligence Bootcamp**.
 
 I bridge the structural gap between enterprise cloud architecture, relational databases, and predictive business intelligence. As a certified Microsoft 365 Expert managing infrastructure for 10+ enterprise clients, I understand real-world data governance, security, and scalability constraints. 
